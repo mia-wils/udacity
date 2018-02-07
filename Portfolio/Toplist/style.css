@@ -1,4 +1,4 @@
-.description {color: pink; max-width: 705px;}
+.description {color: green; max-width: 705px;}
 .screenshot {max-width: 460px}
 * {
     outline: 1px solid red !important;
@@ -9,4 +9,8 @@
      -moz-box-sizing: border-box;
      -ms-box-sizing: border-box;
      box-sizing: border-box;
- } 
+ }
+.app {
+        display: -webkit-flex;
+        display: flex;
+    }
