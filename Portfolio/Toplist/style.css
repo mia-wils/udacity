@@ -1,14 +1,10 @@
 .description {
-    color: green;
+    color: #7C8B88;
     max-width: 705px;
 }
 
 .screenshot {
-    max-width: 460px
-}
-
-* {
-    outline: 1px solid red !important;
+    max-width: 460px; margin-right: 20px
 }
 
 * {
@@ -21,4 +17,16 @@
 .app {
     display: -webkit-flex;
     display: flex;
+}
+
+.title {
+    background-color: #33BEBE
+}
+
+.description {
+    font-size: 20px
+}
+
+h1 {
+    color: white
 }
